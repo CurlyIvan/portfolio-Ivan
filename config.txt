@@ -1,0 +1,11 @@
+excluded_words:
+German
+Deutsch
+Gespräch
+Erfahrung
+
+required_words:
+Project
+Manager
+Senior
+IT
