@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Job Scraper** is a Python application designed to scrape job listings from Glassdoor, focusing on positions relevant to project management. The application retrieves job descriptions and logs valid job links based on specific criteria defined in a configuration file. It can save the links either to a Google Sheet or a local text file.
+This is a Job Scraper I've managed to code with an LLM help. The **Job Scraper** is a Python application designed to scrape job listings from Glassdoor, focusing on positions relevant to project management. The application retrieves job descriptions and logs valid job links based on specific criteria defined in a configuration file. It can save the links either to a Google Sheet or a local text file.
 
 ## Features
 
